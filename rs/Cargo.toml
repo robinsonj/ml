@@ -1,0 +1,8 @@
+[package]
+name = "ml"
+version = "0.1.0"
+authors = ["Joseph L. Robinson <robinsonjosephlewis@gmail.com>"]
+
+[dependencies]
+nalgebra = "*"
+rand = "*"
